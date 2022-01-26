@@ -1,4 +1,4 @@
-module github.com/sunary/kitchen
+module github.com/duysmile/kitchen
 
 go 1.12
 
